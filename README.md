@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Diego</h1>
+<h1 align="center">👋 Hi, I'm Diego Eduardo</h1>
 
 <p align="center">
   <b>QA Engineer for AI applications</b> · QA Lead experience · PhD student in Applied Computing · Joinville, Brazil 🇧🇷
